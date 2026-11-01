@@ -15,8 +15,10 @@
 | Version | Issued | Details of Change | Author |
 | --- | --- | --- | --- |
 | v0.1 | 23/10/26 | 1.1-1.3 draft | Tyler |
-| v0.11 | 26/10/26 | Initial interview questions writtin | Tyler, Kyran, Will, Morgan |
+| v0.11 | 26/10/26 | Initial interview questions written | Tyler, Kyran, Will, Morgan |
 | v0.12 | 27/10/26 | Mock up designs created for interview | Tyler, Kyran, Will, Morgan, Connor |
+| v0.13 | 28/10/26 | Initial meeting with client | Tyler, Kyran, Morgan, Connor |
+| v0.14 | 01/11/26 | Interview transcript processed, summarised | Tyler |
 
 
 ## Document Particulars
