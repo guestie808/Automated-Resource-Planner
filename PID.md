@@ -100,11 +100,13 @@ Finally the project may include a system to avoid, scheduling conflicts, like ro
   - Should have made room allocation process quicker and easier for users
 
 ### 1.3 Approach
-*Approaches to team and project management.*
+We will use an Agile oriented approach for ensuring the goals of this project are met on time and to a good standard of work. This method allows for regular checks with the client to make sure their requests are met.
+Using the Scrum agile framework with sprints is a great way to ensure this.
 
-- Agile oriented approach to assure goals stay in line with clients requests
-- Frequent communication with client to gain feedback on project iterations
-- Collective work, however, will contribute individually where necessary
+Regular and frequent communication with the client is vital to gain feedback on each iteration of the project. We aim to email the client regularly (weekly/biweekly, timescale to be determined within the next week) and try to have a meeting (online or in person) in necessary intervals to give comprehensive updates on progress and try to incorporate the client’s own ideas which they may have in relation to the work committed since the last update.
+
+Each member of the team will have their own specific roles for this project (Project Manager etc, for example). On top of this, the work for the project will by default be split for everyone to do as a collective. How much of this will depend on what other role specific tasks each person is undergoing at the time.
+
 
 ### 1.4 Success Criteria
 *Explain how you’ll measure the project to determine if it’s successful or not.*
