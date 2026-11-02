@@ -110,6 +110,7 @@ Each member of the team will have their own specific roles for this project (Pro
 
 ### 1.4 Success Criteria
 *Explain how you’ll measure the project to determine if it’s successful or not.*
+The project will be successful once the application has been made, it successfully imports the csv, then sets the data into a calender that is sent to the staff and students in an email invitation and can be expanded to add on other courses as well as healthcare.
 
 ## 2 Business Case
 *The business case is the document that justifies the project. It’s similar to what’s discussed in the project definition but goes into greater detail.* 
