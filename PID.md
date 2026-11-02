@@ -20,7 +20,7 @@
 | v0.13 | 28/10/26 | Initial meeting with client | Tyler, Kyran, Morgan, Connor |
 | v0.14 | 01/11/26 | Interview transcript processed, summarised | Tyler |
 | v0.15 | 01/11/26 | Expanding 1.1 Purpose section | Connor |
-| v0.16 | 01/11/26 | Expanding 1.3 Approach |
+| v0.16 | 01/11/26 | Expanding 1.3 Approach | Will |
 
 
 ## Document Particulars
