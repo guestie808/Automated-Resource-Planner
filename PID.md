@@ -19,7 +19,8 @@
 | v0.12 | 27/10/26 | Mock up designs created for interview | Tyler, Kyran, Will, Morgan, Connor |
 | v0.13 | 28/10/26 | Initial meeting with client | Tyler, Kyran, Morgan, Connor |
 | v0.14 | 01/11/26 | Interview transcript processed, summarised | Tyler |
-| v.0.15 | 1/11/26 | Expanding 1.1 Purpose section | Connor |
+| v0.15 | 01/11/26 | Expanding 1.1 Purpose section | Connor |
+| v0.16 | 01/11/26 | Expanding 1.3 Approach |
 
 
 ## Document Particulars
@@ -109,7 +110,6 @@ Each member of the team will have their own specific roles for this project (Pro
 
 
 ### 1.4 Success Criteria
-*Explain how you’ll measure the project to determine if it’s successful or not.*
 The project will be successful once the application has been made, it successfully imports the csv, then sets the data into a calender that is sent to the staff and students in an email invitation and can be expanded to add on other courses as well as healthcare.
 
 ## 2 Business Case
