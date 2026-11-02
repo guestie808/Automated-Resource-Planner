@@ -19,6 +19,7 @@
 | v0.12 | 27/10/26 | Mock up designs created for interview | Tyler, Kyran, Will, Morgan, Connor |
 | v0.13 | 28/10/26 | Initial meeting with client | Tyler, Kyran, Morgan, Connor |
 | v0.14 | 01/11/26 | Interview transcript processed, summarised | Tyler |
+| v.0.15 | 1/11/26 | Expanding 1.1 Purpose section | Connor |
 
 
 ## Document Particulars
@@ -79,13 +80,16 @@
 
 ## 1 Project Definition
 ### 1.1 Purpose
-*The aims of the project, whether it’s a new product, or a change.*
+The purpose of this project is to develop an automated resource planner to improve and replace the current manual process of scheduling practical sessions. The new system will aim to reduce time and effort required for staff to organise sessions by automating the allocation of rooms, equipment and technicians using timetable data imported from CSV files.
 
-- Aims to replace/ improve upon current system by providing automatic room allocation based on input/ csv file
-- Should also allocate equipment and technician to room where required automatically
-- Should distribute updates to student, technician, equipment and room calendars
-- Should maintain/ become a user friendly system
-- May include system to avoid double booking of room/ technician if system is used by 2+ people simultaneously
+This new system will check the timetable data and match each practical sessions with the needed resources that is also based on availability, for example allocating the appropriate room based on things like the required equipment for the students and the technician needed for the room.
+
+Another key feature is a way of managing and distributing any updates or relevant information to the students, technician, equipment and room calendars.
+
+The system should also prioritise ease of use, providing a clear and straightforward interface that allows staff to import timetables, review generated schedules and manage resource allocations in a simple and accessible way for all staff members.
+
+Finally the project may include a system to avoid, scheduling conflicts, like rooms being double booked, not having the right equipment or a technician not being able to set up the equipment due to being spread across too many sessions. This will help ensure the system produces reliable and accurate sessions, especially if multiple people are using this system 
+
 
 ### 1.2 Aims & Objectives
 *Define the goals, long-term outcomes, and the objectives, short-term outcomes, of the project. Make sure objectives are SMART and link back to the purpose.*
