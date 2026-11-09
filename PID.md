@@ -22,7 +22,8 @@
 | v0.15 | 01/11/26 | Expanding 1.1 Purpose section | Connor |
 | v0.16 | 01/11/26 | Expanding 1.3 Approach | Will |
 | v0.17 | 08/11/26 | 2.1-2.3 Draft | Connor |
-| v0.18 | 09/11/26 | 1.2 Completed and 2.3 Feedback | Tyler |
+| v0.18 | 09/11/26 | 1.4 Completed and 2.3 Feedback | Tyler |
+| v0.19 | 09/11/26 | 1.2 Completed | Kyran |
 
 
 ## Document Particulars
@@ -97,12 +98,11 @@ Finally the project may include a system to avoid, scheduling conflicts, like ro
 *Define the goals, long-term outcomes, and the objectives, short-term outcomes, of the project. Make sure objectives are SMART and link back to the purpose.*
 
 Long Term aims/goals:
-
 - To develop a fully functional & autonomous windows application capable of assigning vacant rooms and appropriate technicians with minimal manual intervention from the client when provided with a CSV file.
 - To implement direct integration for Microsoft azure systems. Allowing the automation of updates to student, technician and room timetables directly, further decreasing the manual intervention required.
 - To design the software with expansion in mind to allow adaptations in the future to support more departments across the university.
 
-- Short Term
+Short Term
   - To create various draft designs to work out an appropriate Windows UI that'll be extremely user-friendly. Interviews with the client will be held to work out usability and efficiency.
   - Developing a system that'll read CSV's with little to no error, using black & white box testing, extracting and sorting all the information regarding students, class dates and requirements.
   - Coding an early build that could test the systems output using .ICS files , creating invites that will prove output functionality.
