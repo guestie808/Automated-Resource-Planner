@@ -21,6 +21,7 @@
 | v0.14 | 01/11/26 | Interview transcript processed, summarised | Tyler |
 | v0.15 | 01/11/26 | Expanding 1.1 Purpose section | Connor |
 | v0.16 | 01/11/26 | Expanding 1.3 Approach | Will |
+| v0.17 | 08/11/26 | 2.1-2.3 Draft | Connor |
 
 
 ## Document Particulars
@@ -115,16 +116,62 @@ The project will be successful once the application has been made, it successful
 ## 2 Business Case
 *The business case is the document that justifies the project. It’s similar to what’s discussed in the project definition but goes into greater detail.* 
 ### 2.1 Background
-*A more detailed discussion of the system as-is, and what problems or opportunities exist.*
+The Current system for scheduling healthcare practical teaching sessions is done by staff manually importing timetable information using CSV files into Microsoft Outlook. The staff then have to allocate suitable rooms, equipment and technicians for each session one at a time. Finally distributing the sessions and their information to students and staff. This process is not very efficient due to the amount of manual effort and time needed to set up these sessions, especially as there are multiple everyday spread across the different courses.
 
-*Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods.* 
+This also leads to the possibility of scheduling and user errors, things like rooms being double booked, allocation of unsuitable or unavailable equipment.
+
+#### From Connor For next person 
+- please do Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods. At the moment I'm thinking of SWOT analysis in a table or in separate paragraphs to identify 
+- Strengths: What works well in the existing system? 
+- Weaknesses: What problems exist?
+- Opportunities: What could be improved?
+- Threats: What could prevent improvements from succeeding?
+- Please then talk about why you used your method of business analysis
+
+#### Questions for 2.1
+- ask our tutor which she would prefer and if she would be happy with us using SWOT*
+- Ask what opinions are on what we've got and what can be improved
+- does she want a paragraph in this about what the new system aims to do 
+
 
 ### 2.2 Options Considered
-*Other options considered, with a brief explanation as to why they are not being considered.* 
+Option 1 -Continue using existing manual process (Talk about how it would be a familiar system, but would not address the problem of this brief
+
+Option 2 - Use a spreadsheet based application (talk how it could be more structured but still require manual effort
+
+Option 3 - Looking at our rough designs talk about how we have considered different approaches of design, like using a weekly calendar, a monthly one etc
+
+Other options that we can think of to add to this will help
 
 *Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods.* 
 
 ### 2.3 Benefits, Costs and Constraints
+
+#### Benefits
+- Reduction of admin workload
+- Improve scheduling accuracy (reducing the likelihood of double-bookings or conflicting allocations)
+- Improved efficiency for both staff and generated timetables
+- Easier management of multiple teaching sessions
+- Better visibility of resource availability
+- Centralised calendar for scheduled sessions
+- Potential for future expansions to other courses
+
+#### Costs
+- Time required for designing, devolping, testing, debugging, maintenance and updates of the software
+- Time required to train staff to use the software
+- time spent setting up required databases
+- Time spent making user guides, documentation and demonstrations
+- Temporary reduction in productivity while staff become familiar with the system
+- Computer hardware requirements
+- Any others that you can think of
+
+#### Constraints
+- Depends on accuracy of imported CSV data
+- The project itself is constrained by the available time for development
+- requirements established by client and the project itself
+- the overall user friendliness of the system
+- Any others that you can think of 
+
 *List the benefits that the project will deliver. These should relate to the business case.*
 
 *Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods.*
