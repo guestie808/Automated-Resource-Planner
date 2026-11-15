@@ -26,6 +26,7 @@
 | v0.18 | 09/11/26 | 1.4 Completed and 2.3 Feedback | Tyler |
 | v0.19 | 09/11/26 | 1.2 Completed | Kyran |
 | v0.20 | 15/11/26 | 2.3 Completed | Morgan |
+| v0.21 | 15/11/26 | 2.3 Tidied up | Will |
 
 
 ## Document Particulars
@@ -185,9 +186,7 @@ In conclusion after considering and looking at the different options. Option 4 a
 
 
 ### 2.3 Benefits, Costs and Constraints
-*List the benefits that the project will deliver. These should relate to the business case.*
 
-*Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods.*
 #### Benefits
 - The software will greatly reduce the workload on the admin. Tasks like these which can be done with automation will always save time in the long run
   * The admin will still be able to use manual intervention where necessary, this intervention won't be nearly the work they would have to commit to before
@@ -195,35 +194,27 @@ In conclusion after considering and looking at the different options. Option 4 a
 - Improved efficiency for the staff and students
   * If there happened to be an unexpected reason why the current timetable doesn't work, creating a new one wont take long or stress the course leaders out
 - Easier management of multiple teaching sessions
-- Better visibility of resource availability (I might remove this as it's a tad vague - Will)
 - Potential for future expansions to other courses
   * Theres no reason why this can't be expanded to fit/crossover with other modules or courses taking the same modules
 
-#### Costs - *TO DISCUSS*
+#### Costs
 - Time required for designing, devolping, testing, debugging, maintenance and updates of the software
 - Time required to train staff to use the software
 - Time spent setting up required databases
-- Time spent making user guides, documentation and demonstrations - (time *contraints* rather than costs perhaps? - Tyler)
 - Temporary reduction in productivity while staff become familiar with the system
 - Computer hardware requirements
-- Any licences used in the making of the project - (*look into how realistic this use of cost would be if applicable*)
-
-- *Any others that you can think of*
-
-*I will fully expand the Costs section once we've had a meeting all together about costs - Will*
+- Any licences used in the making of the project - TBC!
 
 #### Constraints
-- Much like if the timetable was to be made by hand, the accuracy of the timetable will be dictated by the accuracy of the imported CVS data - (would be a human error which we could not avoid. up to data providers to sort? - Tyler)
 - The project itself is constrained by the available time for development
   * This aspect is dictated by group team effort/allocation and the consistency of the communication from the client
 - Requirements established by client and the project itself
   * Implimentation of new features which the client may want to add later on down the line of production
   * Unseen issues regarding the implimentation of the code
   * A sudden lack of communication could lead to certain aspects not getting the time and work the deserve
+- Time spent making user guides, documentation and demonstrations
 
-- The overall user friendliness of the system - (surely discussed with client throughout development, not really a contraint since its completely in our hands? - Tyler) (I agree with Tyler's comment - Will)
 
-- *Any others that you can think of*
 
 ## 3 Project Scope
 *Project scope defines the goals, constraints, workflow management, strategies, tasks and deliverables of the project. Again, while some of this is touched upon in the project definition section, this is a more comprehensive account of all the work to be done in the project.*
