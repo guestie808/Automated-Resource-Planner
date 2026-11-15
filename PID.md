@@ -25,6 +25,7 @@
 | v0.17.1 | 08/11/26 | Expansion of the section 2.3 draft (excluding a proper expansion of "Costs") | Will |
 | v0.18 | 09/11/26 | 1.4 Completed and 2.3 Feedback | Tyler |
 | v0.19 | 09/11/26 | 1.2 Completed | Kyran |
+| v0.20 | 15/11/26 | 2.3 Completed | Morgan |
 
 
 ## Document Particulars
