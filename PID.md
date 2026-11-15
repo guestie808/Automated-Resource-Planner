@@ -198,10 +198,6 @@ In conclusion after considering and looking at the different options. Option 4 a
   * Theres no reason why this can't be expanded to fit/crossover with other modules or courses taking the same modules
 
 #### Costs
-- Time required for designing, devolping, testing, debugging, maintenance and updates of the software
-- Time required to train staff to use the software
-- Time spent setting up required databases
-- Temporary reduction in productivity while staff become familiar with the system
 - Computer hardware requirements
 - Any licences used in the making of the project - TBC!
 
@@ -213,6 +209,11 @@ In conclusion after considering and looking at the different options. Option 4 a
   * Unseen issues regarding the implimentation of the code
   * A sudden lack of communication could lead to certain aspects not getting the time and work the deserve
 - Time spent making user guides, documentation and demonstrations
+
+- Temporary reduction in productivity while staff become familiar with the system
+- Time required for designing, devolping, testing, debugging, maintenance and updates of the software
+- Time required to train staff to use the software
+- Time spent setting up required databases
 
 
 
